@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumo Combustível</string>
+    <string name="km">Qual a quilometragem?</string>
+    <string name="litro"> Quantos litros você usou?</string>
+    <string name="buttonCalcular">Calcular</string>
+    <string name="todo">TODO</string>
+</resources>
